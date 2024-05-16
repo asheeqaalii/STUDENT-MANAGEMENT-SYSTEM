@@ -1,6 +1,6 @@
 {
-  "name": "student-management-system_by_ashi",
-  "version": "1.0.0",
+  "name": "ashi-student-management-system",
+  "version": "1.0.1",
   "main": "index.js",
   "type": "module",
   "bin": "sms.js",
